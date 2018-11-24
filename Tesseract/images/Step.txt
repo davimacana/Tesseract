@@ -1,0 +1,40 @@
+Estrutura Universal de aula — Step
+
+1. Etapa de organização (saudação entrar no logbook, fazer a chamada e colocar os faltosos);
+
+2. Verificar quem fez e corrigir o dever de casa passado na aula anterior. Fazer
+comentários e recomendações ao aluno, colocar as notas no logbook, Responder as
+possíveis perguntas sobre o que foi abordado;
+
+3. Determine o tópico da aula. Dizer aos alunos o propósito e os objetivos da aula.
+
+4. Trabalhar a motivação dos alunos para o tópico (incentivo à atividade cognitiva produtiva);
+
+4. Atualização do conhecimento básico, preparação para a apresentação de novos materiais. 
+Resumidamente repita o que foi dado na aula anterior, conhecimento do qual é necessário 
+para assimilar um novo tópico que vai ser dado na aula (extração de memória de curto ou 
+longo prazo de material previamente adquirido para uso posterior durante a aula, preparação 
+para assimilar novos conhecimentos);
+
+5. Apresentação do novo tópico;
+
+6. Verificar a compreensão do novo tópico (perguntas de controle de conhecimento para cada aluno); .
+
+7. Fixação do novo tópico na prática com a ajuda do professor (o professor mostra exemplos práticos);
+
+8. Controle do conhecimento da turma no exercício prático;
+
+10. Fixação do novo tópico na prática sozinho. Trabalho individual prático dos estudantes. 
+(Implementação de trabalhos práticos para os alunos, dado pelo professor);
+
+11. Controle sobre a assimilação de novos conhecimentos, discussão sobre erros cometidos, correção;
+
+12, Informações sobre o dever de casa, instruções claras sobre como fazê-la'
+
+13. Resumir brevemente a aula dada colocar a nota de participação de cada aluno no logbook.
+
+Feedback para os alunos - É uma boa prática quando o professor deixa comentários
+para cada aluno na chamada do loogbook.
+
+O trabalho em equipe dos aluno é bem-vindo.
+
